@@ -1,0 +1,16 @@
+{
+  "name": "construction",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"  // Add this line for Nodemon
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.9"  // Or any other dependencies you need
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}

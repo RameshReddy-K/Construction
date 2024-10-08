@@ -1,0 +1,10 @@
+/* AdminHome.css */
+.admin-home-container {
+    margin: 20px;
+}
+
+.admin-actions {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}

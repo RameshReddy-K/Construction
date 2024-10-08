@@ -1,0 +1,9 @@
+/* UserHome.css */
+.user-home-container {
+    margin: 20px;
+}
+
+.user-welcome {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+}

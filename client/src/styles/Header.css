@@ -1,0 +1,28 @@
+/* Header.css */
+header {
+    background: #333;
+    color: #fff;
+    padding: 10px 0;
+}
+
+header h1 {
+    text-align: center;
+    margin: 0;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+nav a {
+    margin: 0 15px;
+    color: #fff;
+    padding: 5px 10px;
+}
+
+nav a:hover {
+    background: #575757;
+    border-radius: 5px;
+}
